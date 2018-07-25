@@ -1,5 +1,5 @@
 ###Input the folder location of "GCxGC-MS-Property-estimation_v1.1.0", including itself.
-Folder_location <-"C:/Users/zushiGIS/Desktop/zushi/Propety_Estimation_AIST/˜_•¶ìver/github_ver/GCxGC-MS-Property-estimation_v1.1.0"
+Folder_location <-"C:/....../GCxGC-MS-Property-estimation_v1.1.0"
 
 
 ###Name the input measurement file (cdf)
