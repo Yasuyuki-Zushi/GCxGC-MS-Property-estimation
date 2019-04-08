@@ -1,0 +1,6 @@
+pID,Compound Name,Library Formula,Retention I (min),Retention II (sec),Assignment
+665,"Naphthalene, 2-methyl-",C11H10,17.69,5.19,NIST_Lib
+1265,"Benzene, 1-(2-butenyl)-2,3-dimethyl-",C12H16,21.35,4.08,NIST_Lib
+543,"1,1'-Biphenyl, 3,4'-dimethyl-",C14H14,31.35,5.61,NIST_Lib
+480,"9H-Fluorene, 2-methyl-",C14H12,35.35,6.4,NIST_Lib
+425,"Phenanthrene, 1,7-dimethyl-",C16H14,48.69,8.67,NIST_Lib
